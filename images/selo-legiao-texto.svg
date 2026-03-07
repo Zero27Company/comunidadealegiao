@@ -1,0 +1,17 @@
+﻿﻿<svg xmlns="http://www.w3.org/2000/svg" width="131" height="130" viewBox="0 0 131 130" fill="none">
+  <defs>
+    <path id="ringPath" d="M65.5,65 m-46,0 a46,46 0 1,1 92,0 a46,46 0 1,1 -92,0"/>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(65.5 65) rotate(90) scale(63)">
+      <stop stop-color="#2E473A"/>
+      <stop offset="1" stop-color="#070A10"/>
+    </radialGradient>
+  </defs>
+  <circle cx="65.5" cy="65" r="63" fill="url(#bg)"/>
+  <circle cx="65.5" cy="65" r="47.5" stroke="#3D434B" stroke-width="1.5"/>
+  <text fill="#E5E8EC" font-family="Montserrat, Arial, sans-serif" font-size="8.2" letter-spacing="1.2">
+    <textPath href="#ringPath" startOffset="0%" textLength="289" lengthAdjust="spacing">
+      &#8226;&#160;A LEGI&#195;O&#160;&#8226;&#160;A LEGI&#195;O&#160;&#8226;&#160;A LEGI&#195;O&#160;&#8226;&#160;A LEGI&#195;O&#160;&#8226;&#160;A LEGI&#195;O&#160;&#8226;
+    </textPath>
+  </text>
+  <circle cx="65.5" cy="106" r="2.1" fill="#2E473A"/>
+</svg>
